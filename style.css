@@ -31,7 +31,7 @@ html {
   height: 150px;
   border: 3px solid rgb(245, 244, 244);
   border-radius: 100%;
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 .profile > p {
@@ -41,7 +41,7 @@ html {
   color: #fff;
   text-transform: capitalize;
   text-align: center;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 .link {
@@ -72,11 +72,9 @@ html {
 
 .footer {
   text-align: center;
-  margin-top: 70px;
 }
 
 .footer > i {
   color: white;
   font-size: 20px;
-  margin-top: 30px;
 }
